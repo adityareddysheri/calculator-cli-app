@@ -56,4 +56,4 @@ Implement input validation for non-numeric entries before calculation.
 
 Add colorized CLI output using libraries like colorama.
 
-🧑‍💻 Author Vibodh Deshpande Mechanical Engineering Student | Aspiring Software Developer GitHub: @vibodh27
+🧑‍💻 Author Aditya Reddy Computer Science Engineering Student | Aspiring Software Developer GitHub: @adityareddysheri
